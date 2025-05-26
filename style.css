@@ -1,0 +1,102 @@
+h1{
+    color:azure;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    color: #3d503c;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h3{
+    color: #3d503c;
+    text-align: left;
+    font-family: Helvetica, 
+}
+
+h4{
+    color: #3d503c;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+
+h5{
+    color: #3d503c;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+
+h6{
+    color: azure;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(1, 26, 248);
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+}
+
+body{
+    background-color: #87ccec98;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    border-bottom: #000000ad;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.container_one{
+    background-color: #004d40;
+    color:#2695A6;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.container_two{
+    background-color: #87ccec98;
+    color: #004d40;
+    padding: 20px;
+}
+
+.container_three{
+    background-color: #004d40;
+    color: #e65100;
+    padding: 10px;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695;
+}
+
+th{
+    font-weight: 800;
+    background-color: #2695A6;
+    color: #ffffff;
+}
+
+tr.alt td{
+    background-color: #9AEFFC;
+}
+
+ul{
+    list-style-type: square;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol{
+    list-style-type: disc;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
